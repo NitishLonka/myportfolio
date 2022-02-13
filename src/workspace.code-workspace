@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\react-advanced-2020-master"
+	},
+	{
+		"path": "..\\.."
+	}
+],
+  "settings": {
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  }
+}
