@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import './App.css';
+import './index.css'
 import data from './data';
 import Tabs from './Tabs';
 import { BsFillGeoAltFill } from "react-icons/bs"; 
