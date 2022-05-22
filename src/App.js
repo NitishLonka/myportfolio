@@ -22,7 +22,7 @@ function App(){
         </p>
         <hr className='seperator'/>
         <article className='items'>
-          <h5 className='address'>14610 North 42nd street apartments, Tampa, FL 33613 </h5>
+          <h5 className='address'>14612 Grenadine Drive Apt No.7, Tampa, FL 33613 </h5>
           <BsFillGeoAltFill />
         </article>
         <article className='items'>
