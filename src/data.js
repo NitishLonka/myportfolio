@@ -2,7 +2,7 @@ const data =[
     {
       name:'Summary',
       items: ['A Versatile web developer with over 3 years of hands-on experience with vast array of knowledge in many different front - end and back - end languages, responsive frameworks, databases, and best code practices.',
-            'Proficient in ASP.NET Core, MVC, React.js, Javascript, HTML, CSS.',
+            'Proficient in ASP.NET Core, MVC, React.js, Javascript, HTML, CSS, C#, CoreJava',
             'Proven ability to form, manage and lead team efficiently with record of delivering tasks within stringent timelines.',
             'Committed, flexible and result oriented with a thirst to learn more.'],
       date:''      
