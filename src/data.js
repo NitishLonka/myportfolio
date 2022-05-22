@@ -22,9 +22,7 @@ const data =[
 'Involved in build and deployment process in Azure Devops.',
 'Proficient in Developing Dynamics CRM Plug -in components and workflows.',
 'Worked on performance tuning and production support.',
-'Responsible for rollout activities, client demos and training sessions.',
-'Organized and setup meetings with clients to gather the new business requirements.',
-'Maintained constant communications with the client throughout the project to help identify and clarify businessrequirements.'],
+'Responsible for rollout activities, client demos and training sessions.'],
     date:'August 2018 - August 2021',
     title:'Application Development Analyst - Accenture,Hyderabad,India'
     }    
